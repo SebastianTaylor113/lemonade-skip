@@ -1,4 +1,7 @@
 # lemonade-skip
+
+*THIS PROGRAM IS DEPRICATED AND NO LONGER FUNCTIONING*
+
 The lemonade-skip is a Python program designed to allow users to easily traverse through chapters on the TestOut website. 
 
 To start the program, users need to grab the URL of the chapter they want to start from on the Brightspace/D2L website and input it directly into the Python script when prompted. 
